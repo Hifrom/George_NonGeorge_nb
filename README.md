@@ -4,9 +4,9 @@
 
 ## Разбор
 Для обучения сети запустить Train_George.ipynb  
-Для создания csv файла - create_csv.ipynb
-Для инференса - test.ipynb
-Для парсинга данных - Parser.ipynb
+Для создания csv файла - create_csv.ipynb  
+Для инференса - test.ipynb  
+Для парсинга данных - Parser.ipynb  
 
 
 ## График обучения сети
